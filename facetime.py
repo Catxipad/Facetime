@@ -18,7 +18,7 @@ def dial_and_press(phone_number):
     #time.sleep(1)  # Adjust delay as needed to allow time for the keypress to register
 
 # Example usage
-phone_number = '3478601814'  # Replace with the desired recipient's phone number
+phone_number = 'XXXXXXXXXX'  # Replace with the desired recipient's phone number
 while True:
     dial_and_press(phone_number)
     time.sleep(30)
